@@ -5,4 +5,4 @@ first changes.
 test branch.
 Creating a new branch is quick AND simple.
 another ang simple.
-
+another merge type.
