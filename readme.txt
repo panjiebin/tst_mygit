@@ -3,3 +3,4 @@ Git is free software  distributed under the GPL.
 Git tracks changes. 
 first changes.
 test branch.
+Creating a new branch is quick AND simple.
